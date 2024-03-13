@@ -15,4 +15,4 @@
 ## Презентация:
   1. Презентация [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation.pdf) [(pptx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation.pptx)
   2. Видео-презентация [YouTube](https://youtu.be/NphCBQSNSI8)
-  3. Cопроводительное письмо
+  3. Cопроводительное письмо [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/сопроводительное%20письмо.pdf) [(pptx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/Сопроводительное%20письмо.docx)
