@@ -1,0 +1,3 @@
+[submodule "light-weight-backend"]
+	path = light-weight-backend
+	url = https://github.com/d-poluecktov/light-weight-backend.git
