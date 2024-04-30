@@ -20,7 +20,7 @@
 
 ## 2 Аттестация:
   1. Презентация [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation_2_atta.pdf) [(pptx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation_2%20atta.pptx)
-  2. Видео-презентация [YouTube]()
+  2. Видео-презентация [YouTube](https://youtu.be/UEHYrttVPmY)
   3. [APK](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/apk/app-debug.apk)
 
 ## [Backend](https://github.com/d-poluecktov/light-weight-backend) 
