@@ -1,6 +1,0 @@
-[submodule "light-weight-backend"]
-	path = light-weight-backend
-	url = https://github.com/d-poluecktov/light-weight-backend.git
-[submodule "light-weight-client"]
-	path = light-weight-client
-	url = https://github.com/artyomkorolev/LightWeight_App_Client.git
