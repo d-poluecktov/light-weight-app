@@ -5,6 +5,10 @@
   1. [Полуэктов Данила](https://github.com/d-poluecktov) - тим лид, продукт менеджер
   2. [Королев Артем](https://github.com/artyomkorolev) - мобильный разработчик, дизайнер
   3. [Калашников Даниил](https://github.com/DanyaKalashnikov) - бекенд разработчик
+     
+## [Backend](https://github.com/d-poluecktov/light-weight-backend/tree/main) 
+## [Frontend](https://github.com/artyomkorolev/LightWeight_App_Client/tree/master)
+
 ## Ссылки на сервисы:
   1. [YouTrack](https://d-poluecktov.youtrack.cloud/projects/2061a400-6607-4143-a78c-9aea939eccec)
   2. [Miro](https://miro.com/app/board/uXjVNhjXZ9o=/?share_link_id=132676299437)
@@ -19,7 +23,7 @@
   1. Презентация проекта [(YouTube)](https://www.youtube.com/watch?v=ImgtVXi55Hw)
   2. Демонстрация приложения [(YouTube)]()
   3. Backend [(YouTube)](https://www.youtube.com/watch?v=iisJaCrLBfI)
-  4. FrontEnd [(YouTube)]()
+  4. FrontEnd [(YouTube)](https://www.youtube.com/watch?v=Sz-aalJQDiY)
 ## Учётные данные пользователей
   Админ:
   
@@ -33,9 +37,6 @@
       Пароль: pass
       
   *Примечание: или зарегестрируйте обычного пользователя
-
-## [Backend](https://github.com/d-poluecktov/light-weight-backend/tree/main) 
-## [Frontend](https://github.com/artyomkorolev/LightWeight_App_Client/tree/master)
 
 
 ## 1 Аттестация:
