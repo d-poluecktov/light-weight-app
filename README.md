@@ -9,6 +9,7 @@
   1. [YouTrack](https://d-poluecktov.youtrack.cloud/projects/2061a400-6607-4143-a78c-9aea939eccec)
   2. [Miro](https://miro.com/app/board/uXjVNhjXZ9o=/?share_link_id=132676299437)
   3. [Figma](https://www.figma.com/file/B4OTwyUPCxif8jvCbxd4dY/Light-Weight?type=design&mode=design&t=ht8LhOoVosFd5Bgu-1)
+  4. [Swagger](https://www.light-weight.site:8080/swagger-ui/index.html#/)
 ## Документация к защите проекта:
   1. Техническое задание [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/ТЗ.pdf) [(docx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/ТЗ.docx)
   2. Оформление технического задания [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/оформление%20тз.pdf) [(jpg)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/оформление%20тз.jpg)
