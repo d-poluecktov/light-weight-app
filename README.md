@@ -17,7 +17,7 @@
 ## Документация к защите проекта:
   1. Техническое задание [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/ТЗ.pdf) [(docx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/ТЗ.docx)
   2. Оформление технического задания [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/оформление%20тз.pdf) [(jpg)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/оформление%20тз.jpg)
-  3. Курсовой проект [(pdf)]() [(docx)]()
+  3. Курсовой проект [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/Курсовой%20проект.pdf) [(docx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/Курсовой%20проект.docx)
   4. Cопроводительное письмо [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/сопроводительное%20письмо.pdf) [(docx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/Сопроводительное%20письмо.docx)
 ## Видео к защите проекта
   1. Презентация проекта [(YouTube)](https://www.youtube.com/watch?v=ImgtVXi55Hw)
@@ -41,7 +41,6 @@
 
 ## 1 Аттестация:
   1. Презентация ТЗ [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation.pdf) [(pptx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation.pptx)
-  2. Презентация проекта [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation_final.pdf) [(pptx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation_final.pptx)
   3. Видео-презентация [YouTube](https://youtu.be/NphCBQSNSI8)
   4. Cопроводительное письмо [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/сопроводительное%20письмо.pdf) [(docx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/Сопроводительное%20письмо.docx)
 
@@ -49,3 +48,5 @@
   1. Презентация [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation_2_atta.pdf) [(pptx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation_2%20atta.pptx)
   2. Видео-презентация [YouTube](https://youtu.be/UEHYrttVPmY)
   3. [APK](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/apk/app-debug.apk)
+## Предзащита:
+  1. Презентация проекта [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation_final.pdf) [(pptx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/presentation_final.pptx)
