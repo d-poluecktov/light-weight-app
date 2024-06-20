@@ -18,7 +18,8 @@
   1. Техническое задание [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/ТЗ.pdf) [(docx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/ТЗ.docx)
   2. Оформление технического задания [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/оформление%20тз.pdf) [(jpg)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/оформление%20тз.jpg)
   3. Курсовой проект [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/Курсовой%20проект.pdf) [(docx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/Курсовой%20проект.docx)
-  4. Cопроводительное письмо [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/сопроводительное%20письмо.pdf) [(docx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/Сопроводительное%20письмо.docx)
+  4. Презентация приложения [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/Presentation_protection.pdf) [(pptx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/presentation/Presentation_protection.pptx)
+  5. Cопроводительное письмо [(pdf)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/сопроводительное%20письмо.pdf) [(docx)](https://github.com/d-poluecktov/light-weight-app/blob/main/docs/tech%20spec/Сопроводительное%20письмо.docx)
 ## Видео к защите проекта
   1. Презентация проекта [(YouTube)](https://www.youtube.com/watch?v=ImgtVXi55Hw)
   2. Демонстрация приложения [(YouTube)]()
